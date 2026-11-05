@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá! Eu sou o André 👋
 
-<!--
-**AndreYoshinari/AndreYoshinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Android com aproximadamente 3 anos de experiência em desenvolvimento de aplicativos nativos utilizando Kotlin e Java.
 
-Here are some ideas to get you started:
+Tenho experiência no desenvolvimento e manutenção de aplicações voltadas para pagamentos, autoatendimento e soluções comerciais, incluindo integrações com APIs REST e dispositivos de pagamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** Kotlin, Java, SQL
+- **Android:** Jetpack Compose, Android SDK, Room, Navigation
+- **Arquitetura:** MVVM, Clean Architecture
+- **Concorrência:** Coroutines, Flow, StateFlow
+- **Injeção de dependência:** Koin
+- **Integração:** Retrofit, OkHttp, APIs REST
+- **Testes:** JUnit, Mockito, MockK
+- **Ferramentas:** Android Studio, Git, Gradle
+
+### 🚀 Projetos em destaque
+
+- **[PaymentSimulator](https://github.com/AndreYoshinari/PaymentSimulator):** Simulação de fluxos de pagamento, com foco em regras de negócio, idempotência e confiabilidade.
+- **[MatchPoint](https://github.com/AndreYoshinari/MatchPoint):** Aplicativo Android para gerenciamento e acompanhamento de partidas de voleibol.
+
+### 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/andreyoshinari/
+- GitHub: https://github.com/AndreYoshinari
